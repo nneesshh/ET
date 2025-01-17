@@ -230,6 +230,12 @@
         "cn.etetet.core": "2.0.0"
       }
     },
+    "cn.etetet.yiui": {
+      "version": "file:cn.etetet.yiui",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.yiui3ddisplay": {
       "version": "file:cn.etetet.yiui3ddisplay",
       "depth": 0,
