@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "cn.etetet.core": "2.0.9",
+    "cn.etetet.proto": "2.0.4",
+    "cn.etetet.statesync": "2.0.12",
     "cn.etetet.yiuistatesync": "0.7.2",
     "com.unity.ai.navigation": "1.1.5",
     "com.unity.ide.rider": "3.0.31",
