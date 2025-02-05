@@ -2454,28 +2454,28 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: PackageAuthor
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: fs
     - Name: PackageAuthorURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/yukuyoulei/ConfigAuto
     - Name: PackageRepositoryURL
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: https://github.com/ET-Packages/cn.etetet.configauto.git
     - Name: DownloadValue
       Entry: 3
       Data: 9
     - Name: PackageDescription
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u81EA\u52A8\u5BFC\u51FA\u914D\u7F6E"
     - Name: PackageCurrentVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: "\u672A\u5B89\u88C5"
     - Name: PackageLastVersion
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 0.0.2
     - Name: PackageCategory
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: m_CanRemove
       Entry: 5

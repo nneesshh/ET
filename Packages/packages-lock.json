@@ -346,6 +346,12 @@
         "com.unity.modules.unitywebrequestassetbundle": "1.0.0"
       }
     },
+    "com.code-philosophy.luban": {
+      "version": "file:com.code-philosophy.luban",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.etetet.init": {
       "version": "file:com.etetet.init",
       "depth": 0,
