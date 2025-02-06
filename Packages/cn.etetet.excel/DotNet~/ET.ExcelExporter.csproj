@@ -49,6 +49,7 @@
     </ItemGroup>
     
     <ItemGroup>
+      <ProjectReference Include="..\..\..\Luban.Runtime.csproj" />
       <ProjectReference Include="..\..\cn.etetet.core\DotNet~\ET.Core.csproj" />
     </ItemGroup>
 

@@ -7,8 +7,8 @@ dotnet %LUBAN_DLL% ^
     -c cs-simple-json ^
     -d json ^
     --conf %CONF_ROOT%\luban.conf ^
-    -x outputCodeDir=..\..\Assets\Scripts\Luban ^
-    -x outputDataDir=..\..\Assets\StreamingAssets\Luban
+    -x outputCodeDir=..\..\Assets\Scripts\GameCfgData ^
+    -x outputDataDir=..\..\Assets\StreamingAssets\GameCfgData
 
 @REM 复制生成的文件到指定目录
 @REM xcopy .\out_server_jsons\* ..\..\immortal_publish\bin\res\jsons\ /E /Y

@@ -1,0 +1,17 @@
+{
+  "name": "lzy.gamelib",
+  "version": "1.0.0",
+  "displayName": "Lzy.Gamelib",
+  "description": "",
+  "category": "Runtime",
+  "documentationUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "utility"
+  ],
+  "author": {
+    "name": "",
+    "email": "a@b.com",
+    "url": ""
+  }
+}

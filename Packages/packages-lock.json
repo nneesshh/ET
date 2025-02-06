@@ -533,6 +533,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "lzy.gamelib": {
+      "version": "file:lzy.gamelib",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
